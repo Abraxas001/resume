@@ -1,0 +1,172 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    height: 370px;
+    width: auto;
+    padding: 20px;
+    margin: 0;
+    position: relative;
+}
+.right{
+    margin: 80px 130px 0 0;
+    float: right;
+    width: 220px;
+    height: 280px;
+    background-image: url(img/profile1.jpg);
+    background-size: cover;
+}
+.left{
+    margin: 60px 0 0 100px;
+    float: left;
+    width: 450px;
+    height: 150px;
+    background-image: url(img/cgc.jpg);
+    background-size: cover;
+}
+.name{
+    font-weight: bold;
+}
+.email{
+    font-weight: bold;
+    text-decoration: none;
+}
+.attri{
+    font-size: 25px;
+    list-style: none;
+    float: left;
+    margin: 240px 0 0 -450px;
+}
+.siksha1{
+    font-weight: bold;
+    padding: 5px 350px 5px 40px;
+    font-size: 30px;
+    height: 35px;
+    margin: 40px 80px;
+    background-color: rgb(230, 225, 225);
+}
+.siksha2{
+    height: 300px;
+    width: auto;
+    background-color: rgb(230, 225, 225);
+    margin: 40px 80px;
+}
+.academic1{
+    font-weight: bold;
+    padding: 5px 350px 5px 40px;
+    font-size: 30px;
+    height: 35px;
+    margin: 40px 80px;
+    background-color: rgb(230, 225, 225);
+}
+.academic2{
+    margin: 0 80px 40px 150px;
+    font-size: 25px;
+}
+.software1{
+    font-weight: bold;
+    padding: 5px 350px 5px 40px;
+    font-size: 30px;
+    height: 35px;
+    margin: 40px 80px;
+    background-color: rgb(230, 225, 225);
+}
+.software2{
+    height: 250px;
+    width: auto;
+    background-color: rgb(230, 225, 225);
+    margin: 40px 80px;
+}
+.project1{
+    font-weight: bold;
+    padding: 5px 350px 5px 40px;
+    font-size: 30px;
+    height: 35px;
+    margin: 40px 80px;
+    background-color: rgb(230, 225, 225);
+}
+.project2{
+    height: 500px;
+    width: auto;
+    background-color: rgb(230, 225, 225);
+    margin: 40px 80px;
+}
+.ex1{
+    font-weight: bold;
+    padding: 5px 350px 5px 40px;
+    font-size: 30px;
+    height: 35px;
+    margin: 40px 80px;
+    background-color: rgb(230, 225, 225);
+}
+.ex2{
+    font-size: 25px;
+
+    margin: 40px 80px 0 150px;
+}
+.role{
+    margin-left: 120px;
+}
+.skills1{
+    font-weight: bold;
+    padding: 5px 350px 5px 40px;
+    font-size: 30px;
+    height: 35px;
+    margin: 40px 80px;
+    background-color: rgb(230, 225, 225);
+}
+.skills2{
+    margin: 0 80px 40px 150px;
+    font-size: 25px;
+}
+.hobby1{
+    font-weight: bold;
+    padding: 5px 350px 5px 40px;
+    font-size: 30px;
+    height: 35px;
+    margin: 40px 80px;
+    background-color: rgb(230, 225, 225);
+}
+.hobby2{
+    margin: 0 80px 40px 150px;
+    font-size: 25px;
+}
+.info{
+    position: relative;
+    font-weight: bold;
+    padding: 5px 350px 5px 40px;
+    font-size: 30px;
+    height: 35px;
+    margin: 40px 80px;
+    background-color: rgb(230, 225, 225);
+}
+table{
+    margin: 15px 0 30px 150px;
+    padding: 20px;
+    font-weight:lighter;
+    font-size: 25px;
+}
+.declare1{
+    font-weight: bold;
+    padding: 5px 350px 5px 40px;
+    font-size: 30px;
+    height: 35px;
+    margin: 40px 80px 10px 80px;
+    background-color: rgb(230, 225, 225);
+}
+h2{
+    font-weight: lighter;
+    margin: 10px 0 20px 80px;
+}
+.hr{
+    font-weight: lighter;
+    font-size: 25px;
+    float: right;
+    width: 50%;
+}
+footer{
+    font-size: 15px;
+    margin-left: 80px;
+    padding: 0;
+}
